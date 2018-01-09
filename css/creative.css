@@ -456,4 +456,7 @@ fieldset[disabled] .btn-primary:hover {
 .sr-icons {
   font-size: 4em;
 }
+.img-fluid {
+  image-rendering: initial;
+}
 
