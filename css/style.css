@@ -5,6 +5,20 @@
     height: 280px;
     width: 517px;
 }
+.seperator {
+    margin: 0 10px;
+}
+.liveCode {
+    list-style-type: none;
+    margin: 10px;
+    display: inline-flex;
+    padding: 0;
+}
+.live:hover, .code:hover {
+    color: white;
+}
+
+/* Added important to override width and font size from bootstrap */
 .skills {
     margin: auto !important;
     width: 50% !important;
