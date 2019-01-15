@@ -447,16 +447,4 @@ fieldset[disabled] .btn-primary:hover {
   padding: 15px 30px; 
 }
 
-/* Added CSS I have created,  will organize after */
-
-.downArrow {
-  color: #f05f40;
-}  
-
-.sr-icons {
-  font-size: 4em;
-}
-.img-fluid {
-  image-rendering: initial;
-}
 

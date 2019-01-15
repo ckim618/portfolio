@@ -1,5 +1,19 @@
-$(document).ready(info);
+$(document).ready(initialize);
 
+function initialize() {
+    clickHandler();
+    info();
+}
+
+
+function clickHandler() {
+    $('.code').on('click', function() {
+        console.log('Code Clicked');
+    });
+    $('.live').on('click', function() {
+        console.log('Live Clicked')     
+    });
+}
 
 function info() {
     var email = 'ckim618@gmail.com';

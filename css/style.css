@@ -1,3 +1,16 @@
+/* Added CSS I have created,  will organize after */
+
+.downArrow {
+color: #f05f40;
+}  
+
+.sr-icons {
+font-size: 4em;
+}
+.img-fluid {
+image-rendering: initial;
+}
+  
 #subHomeHeading {
     margin: 3% 0 15% 0;
 }
